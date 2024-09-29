@@ -2,7 +2,7 @@
 
 Azure provides a variety of virtual machine (VM) offerings to cater to different workload requirements. Each VM type is designed with specific hardware configurations to meet diverse performance and scalability needs.
 
-## General Purpose VMs
+## General Purpose VMs1
 
 **Example: Standard_D2s_v3**
 
